@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="en">
 <head>
@@ -17,7 +16,7 @@
 </head>
 
 <body>
-  <!-- your content here... -->
- HELLO World!!!
+HELLO World!!!
+  My name is Matte A. Keller and I am the founder of this page, and this is my very first webpage. So far its been very far but we will see...
 </body>
 </html>
