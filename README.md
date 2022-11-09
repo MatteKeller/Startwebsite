@@ -42,6 +42,3 @@ HELLO World!!!
 <p><em>five</em> 
 
 
-</body>
-
-
