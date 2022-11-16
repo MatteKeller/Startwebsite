@@ -39,3 +39,27 @@ HELLO World!!!
 <div><em>five</em> <div>
 
 
+<html>
+
+     <head>
+
+     </head>
+
+ 
+
+     <body>
+
+     Hello,
+
+                       This is an example of some text
+
+This is showing how white space <br> is interpreted.  I will also see how <!-- comments --> get ignored by the browser
+
+ 
+
+                                                                                      Upload me!!!!! 
+
+     </body>
+
+</html>
+
